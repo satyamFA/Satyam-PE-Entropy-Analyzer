@@ -1,0 +1,4 @@
+pefile
+matplotlib
+requests
+python-dotenv
